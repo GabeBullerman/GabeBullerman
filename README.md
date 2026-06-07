@@ -12,6 +12,7 @@
   </a>
 </p>
 
+─── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───
 
 <h2 align="center">⚡ src/pages/AboutMe.tsx</h2>
 
@@ -20,7 +21,7 @@ const gabe: Developer = {
   name:      "Gabriel Bullerman",
   role:      "Full-Stack / Frontend Engineer",
   education: "B.A. Computer Science @ Iowa State University (2026)",
-  location:  "Englewood, CO ⛰️",
+  location:  "Ames, IA 🌽",
   building:  ["Cross-platform apps", "Real-time systems", "Clean, scalable UIs"],
   stack:     ["React · TypeScript · TailwindCSS", "Node.js · Express · PostgreSQL", "Docker · GitLab CI/CD"],
   passion:   "Turning complex problems into elegant, user-facing experiences",
@@ -28,6 +29,7 @@ const gabe: Developer = {
 }
 ```
 
+─── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───
 
 <h2 align="center">🛠️ src/pages/TechStack.tsx</h2>
 
@@ -72,6 +74,7 @@ const gabe: Developer = {
   </tr>
 </table>
 
+─── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───
 
 <h2 align="center">📊 src/pages/Stats.tsx</h2>
 
@@ -82,12 +85,13 @@ const gabe: Developer = {
         <img src="https://github-readme-streak-stats.herokuapp.com?user=GabeBullerman&theme=tokyonight&hide_border=true" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=GabeBullerman&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabeBullerman&theme=tokyonight" />
       </td>
     </tr>
   </table>
 </div>
 
+─── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───
 
 <h2 align="center">🐍 src/pages/Contributions.tsx</h2>
 
@@ -99,6 +103,7 @@ const gabe: Developer = {
   </picture>
 </p>
 
+─── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───
 
 <h2 align="center">📬 src/pages/ContactMe.tsx</h2>
 
