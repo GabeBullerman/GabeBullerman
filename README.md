@@ -12,11 +12,7 @@
   </a>
 </p>
 
-<pre>
-.--.      .-'.      .--.      .--.      .--.      .--.      .`-.      .--.
-:::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\
-'      `--'      `.-'      `--'      `--'      `--'      `-.'      `--'      `
-</pre>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=60&section=footer"/>
 
 <h2 align="center">⚡ src/pages/AboutMe.tsx</h2>
 
@@ -33,11 +29,7 @@ const gabe: Developer = {
 }
 ```
 
-<pre>
-.--.      .-'.      .--.      .--.      .--.      .--.      .`-.      .--.
-:::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\
-'      `--'      `.-'      `--'      `--'      `--'      `-.'      `--'      `
-</pre>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=60&section=footer"/>
 
 <h2 align="center">🛠️ src/pages/TechStack.tsx</h2>
 
@@ -82,11 +74,7 @@ const gabe: Developer = {
   </tr>
 </table>
 
-<pre>
-.--.      .-'.      .--.      .--.      .--.      .--.      .`-.      .--.
-:::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\
-'      `--'      `.-'      `--'      `--'      `--'      `-.'      `--'      `
-</pre>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=60&section=footer"/>
 
 <h2 align="center">📊 src/pages/Stats.tsx</h2>
 
@@ -103,11 +91,7 @@ const gabe: Developer = {
   </table>
 </div>
 
-<pre>
-.--.      .-'.      .--.      .--.      .--.      .--.      .`-.      .--.
-:::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\
-'      `--'      `.-'      `--'      `--'      `--'      `-.'      `--'      `
-</pre>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=60&section=footer"/>
 
 <h2 align="center">🐍 src/pages/Contributions.tsx</h2>
 
@@ -119,11 +103,7 @@ const gabe: Developer = {
   </picture>
 </p>
 
-<pre>
-.--.      .-'.      .--.      .--.      .--.      .--.      .`-.      .--.
-:::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\::::::::.\
-'      `--'      `.-'      `--'      `--'      `--'      `-.'      `--'      `
-</pre>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=60&section=footer"/>
 
 <h2 align="center">📬 src/pages/ContactMe.tsx</h2>
 
