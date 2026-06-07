@@ -72,7 +72,6 @@ const gabe: Developer = {
   </tr>
 </table>
 
-─── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───
 
 <h2 align="center">📊 src/pages/Stats.tsx</h2>
 
