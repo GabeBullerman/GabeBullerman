@@ -21,7 +21,7 @@ const gabe: Developer = {
   name:      "Gabriel Bullerman",
   role:      "Full-Stack / Frontend Engineer",
   education: "B.A. Computer Science @ Iowa State University (2026)",
-  location:  "Ames, IA 🌽",
+  location:  "Englewood, CO ⛰️",
   building:  ["Cross-platform apps", "Real-time systems", "Clean, scalable UIs"],
   stack:     ["React · TypeScript · TailwindCSS", "Node.js · Express · PostgreSQL", "Docker · GitLab CI/CD"],
   passion:   "Turning complex problems into elegant, user-facing experiences",
