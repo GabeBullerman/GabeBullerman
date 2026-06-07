@@ -99,7 +99,6 @@ const gabe: Developer = {
   </picture>
 </p>
 
-─── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───
 
 <h2 align="center">📬 src/pages/ContactMe.tsx</h2>
 
