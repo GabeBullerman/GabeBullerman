@@ -12,7 +12,6 @@
   </a>
 </p>
 
-─── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───
 
 <h2 align="center">⚡ src/pages/AboutMe.tsx</h2>
 
@@ -29,7 +28,6 @@ const gabe: Developer = {
 }
 ```
 
-─── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───
 
 <h2 align="center">🛠️ src/pages/TechStack.tsx</h2>
 
@@ -91,7 +89,6 @@ const gabe: Developer = {
   </table>
 </div>
 
-─── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───
 
 <h2 align="center">🐍 src/pages/Contributions.tsx</h2>
 
