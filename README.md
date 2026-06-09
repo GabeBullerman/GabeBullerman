@@ -47,7 +47,7 @@ const gabe: Developer = {
   </tr>
 </table>
 
-<h4 align="center">Backend & Databases</h4>
+<h4 align="center">Backend &amp; Databases</h4>
 
 <table align="center">
   <tr>
@@ -61,7 +61,7 @@ const gabe: Developer = {
   </tr>
 </table>
 
-<h4 align="center">Tools & DevOps</h4>
+<h4 align="center">Tools &amp; DevOps</h4>
 
 <table align="center">
   <tr>
@@ -82,7 +82,7 @@ const gabe: Developer = {
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=GabeBullerman&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=GabeBullerman&theme=tokyonight&hide_border=true&starting_year=2024" />
       </td>
       <td align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabeBullerman&theme=tokyonight" />
