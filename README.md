@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GabeBullerman/GabeBullerman/main/drawing-animation.gif" width="700" alt="Drawing Animation" />
+  <img src="https://raw.githubusercontent.com/GabeBullerman/GabeBullerman/main/drawing-animation.gif" width="100%" alt="Drawing Animation" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=60&section=footer"/>
+
+<h1 align="center">Gabe Bullerman</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
