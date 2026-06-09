@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/GabeBullerman/GabeBullerman/main/drawing-animation.gif" width="700" alt="Drawing Animation" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=60&section=footer"/>
+
+<p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Gabe+%F0%9F%91%8B;Full-Stack+%2F+Frontend+Engineer;React+%7C+TypeScript+%7C+Node.js;Building+cross-platform+apps+%26+real-time+systems" alt="Typing SVG" />
   </a>
@@ -12,7 +18,7 @@
   </a>
 </p>
 
-─── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=60&section=footer"/>
 
 <h2 align="center">⚡ src/pages/AboutMe.tsx</h2>
 
@@ -21,7 +27,7 @@ const gabe: Developer = {
   name:      "Gabriel Bullerman",
   role:      "Full-Stack / Frontend Engineer",
   education: "B.A. Computer Science @ Iowa State University (2026)",
-  location:  "Ames, IA 🌽",
+  location:  "Englewood, CO 🏔️",
   building:  ["Cross-platform apps", "Real-time systems", "Clean, scalable UIs"],
   stack:     ["React · TypeScript · TailwindCSS", "Node.js · Express · PostgreSQL", "Docker · GitLab CI/CD"],
   passion:   "Turning complex problems into elegant, user-facing experiences",
@@ -29,7 +35,7 @@ const gabe: Developer = {
 }
 ```
 
-─── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=60&section=footer"/>
 
 <h2 align="center">🛠️ src/pages/TechStack.tsx</h2>
 
@@ -74,15 +80,7 @@ const gabe: Developer = {
   </tr>
 </table>
 
-─── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───
-
-<h2 align="center">🎨 src/pages/Projects.tsx</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GabeBullerman/GabeBullerman/main/drawing-animation.gif" width="700" alt="Drawing Animation" />
-</p>
-
-─── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=60&section=footer"/>
 
 <h2 align="center">📊 src/pages/Stats.tsx</h2>
 
@@ -99,7 +97,7 @@ const gabe: Developer = {
   </table>
 </div>
 
-─── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=60&section=footer"/>
 
 <h2 align="center">🐍 src/pages/Contributions.tsx</h2>
 
@@ -111,7 +109,7 @@ const gabe: Developer = {
   </picture>
 </p>
 
-─── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ───
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=60&section=footer"/>
 
 <h2 align="center">📬 src/pages/ContactMe.tsx</h2>
 
