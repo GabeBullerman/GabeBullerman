@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Gabe+%F0%9F%91%8B;Full-Stack+%2F+Frontend+Engineer;React+%7C+TypeScript+%7C+Node.js;Building+cross-platform+apps+%26+real-time+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+%2F+Frontend+Engineer;React+%7C+TypeScript+%7C+Node.js;Building+cross-platform+apps+%26+real-time+systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -77,58 +77,3 @@ const gabe: Developer = {
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48"/><br>GitLab CI/CD</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br>Docker</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48"/><br>Postman</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48"/><br>Android Studio</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48"/><br>Vercel</td>
-  </tr>
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=60&section=footer"/>
-
-<h2 align="center">📊 src/pages/Stats.tsx</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=GabeBullerman&theme=tokyonight&hide_border=true&starting_year=2024" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=GabeBullerman&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=60&section=footer"/>
-
-<h2 align="center">🐍 src/pages/Contributions.tsx</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabeBullerman/GabeBullerman/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabeBullerman/GabeBullerman/output/github-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/GabeBullerman/GabeBullerman/output/github-snake.svg" />
-  </picture>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=60&section=footer"/>
-
-<h2 align="center">📬 src/pages/ContactMe.tsx</h2>
-
-<p align="center">
-  <a href="https://portfolio-8yqn.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:gabebullerman1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/gabebullerman">
-    <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/GabeBullerman">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
