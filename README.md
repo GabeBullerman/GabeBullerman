@@ -37,8 +37,7 @@ const gabe: Developer = {
 }
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=60&section=footer"/>
-
+<h2 align="center">🧩 src/pages/LeetCode.tsx</h2>
 <p align="center">
   <a href="https://leetcode.com/u/Gabe_Bullerman/">
     <img
