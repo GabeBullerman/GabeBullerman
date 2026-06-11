@@ -42,7 +42,7 @@ const gabe: Developer = {
 <h2 align="center">🧩 src/pages/LeetCode.tsx</h2>
 <p align="center">
   <a href="https://leetcode.com/u/Gabe_Bullerman/">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Gabe_Bullerman&theme=github-dark&animation=true" alt="Gabe Bullerman's LeetCode badges" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Gabe_Bullerman&theme=tokyonight&animation=true" alt="Gabe Bullerman's LeetCode badges" />
   </a>
 </p>
 
