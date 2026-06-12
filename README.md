@@ -80,7 +80,7 @@ const gabe: Developer = {
 <p align="center">
   <a href="https://leetcode.com/u/Gabe_Bullerman/">
     <img
-      src="https://leetcode-badges-gabe.vercel.app/api?username=Gabe_Bullerman&theme=tokyonight&animated=true&border=no-border&anon=true"
+      src="https://leetcode-badges-gabe.vercel.app/api?username=Gabe_Bullerman&theme=tokyonight&animated=true&border=no-border&anon=true&v=2"
       alt="LeetCode Badges"
     />
   </a>
