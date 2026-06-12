@@ -37,16 +37,6 @@ const gabe: Developer = {
 }
 ```
 
-<h2 align="center">🧩 src/pages/LeetCode.tsx</h2>
-<p align="center">
-  <a href="https://leetcode.com/u/Gabe_Bullerman/">
-    <img
-      src="https://leetcode-badges-gabe.vercel.app/api?username=Gabe_Bullerman&theme=tokyonight&animated=true&border=no-border&anon=true"
-      alt="LeetCode Badges"
-    />
-  </a>
-</p>
-
 <h2 align="center">🛠️ src/pages/TechStack.tsx</h2>
 
 <h4 align="center">Frontend</h4>
@@ -85,3 +75,13 @@ const gabe: Developer = {
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48"/><br>GitLab CI/CD</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br>Docker</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48"/><br>Postman</td>
+
+<h2 align="center">🧩 src/pages/LeetCode.tsx</h2>
+<p align="center">
+  <a href="https://leetcode.com/u/Gabe_Bullerman/">
+    <img
+      src="https://leetcode-badges-gabe.vercel.app/api?username=Gabe_Bullerman&theme=tokyonight&animated=true&border=no-border&anon=true"
+      alt="LeetCode Badges"
+    />
+  </a>
+</p>
