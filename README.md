@@ -36,6 +36,14 @@ const gabe: Developer = {
   open_to:   ["New grad roles", "Internships", "Collaborations"],
 }
 ```
+<h2 align="center">🧩 src/pages/LeetCode.tsx</h2>
+<p align="center">
+  <a href="https://leetcode.com/u/Gabe_Bullerman/">
+    <img
+      src="https://leetcode-badges-gabe.vercel.app/api?username=Gabe_Bullerman&theme=tokyonight&animated=true&border=no-border&anon=true"
+      alt="LeetCode Badges"
+    />
+  </a>
 
 <h2 align="center">🛠️ src/pages/TechStack.tsx</h2>
 
@@ -76,13 +84,3 @@ const gabe: Developer = {
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48"/><br>Postman</td>
 </p>
 >
-
-
-<h2 align="center">🧩 src/pages/LeetCode.tsx</h2>
-<p align="center">
-  <a href="https://leetcode.com/u/Gabe_Bullerman/">
-    <img
-      src="https://leetcode-badges-gabe.vercel.app/api?username=Gabe_Bullerman&theme=tokyonight&animated=true&border=no-border&anon=true"
-      alt="LeetCode Badges"
-    />
-  </a>
