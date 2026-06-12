@@ -10,13 +10,13 @@
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+%2F+Frontend+Engineer;React+%7C+TypeScript+%7C+Node.js;Building+cross-platform+apps+%26+real-time+systems" alt="Typing SVG" />
   </a>
-</p>h
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GabeBullerman&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile Views" />
   &nbsp;
   <a href="https://portfolio-8yqn.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />h
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -36,15 +36,6 @@ const gabe: Developer = {
   open_to:   ["New grad roles", "Internships", "Collaborations"],
 }
 ```
-<h2 align="center">🧩 src/pages/LeetCode.tsx</h2>
-<p align="center">
-  <a href="https://leetcode.com/u/Gabe_Bullerman/">
-    <img
-      src="https://leetcode-badges-gabe.vercel.app/api?username=Gabe_Bullerman&theme=tokyonight&animated=true&border=no-border&anon=true"
-      alt="LeetCode Badges"
-    />
-  </a>
-
 <h2 align="center">🛠️ src/pages/TechStack.tsx</h2>
 
 <h4 align="center">Frontend</h4>
@@ -82,5 +73,15 @@ const gabe: Developer = {
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48"/><br>GitLab CI/CD</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br>Docker</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48"/><br>Postman</td>
+  </tr>
+</table>
+
+<h2 align="center">🧩 src/pages/LeetCode.tsx</h2>
+<p align="center">
+  <a href="https://leetcode.com/u/Gabe_Bullerman/">
+    <img
+      src="https://leetcode-badges-gabe.vercel.app/api?username=Gabe_Bullerman&theme=tokyonight&animated=true&border=no-border&anon=true"
+      alt="LeetCode Badges"
+    />
+  </a>
 </p>
->
