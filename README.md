@@ -68,13 +68,15 @@ const gabe: Developer = {
 </table>
 
 <h4 align="center">Tools & DevOps</h4>
-
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br>Git</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48"/><br>GitLab CI/CD</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br>Docker</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48"/><br>Postman</td>
+</p>
+>
+
 
 <h2 align="center">🧩 src/pages/LeetCode.tsx</h2>
 <p align="center">
@@ -84,4 +86,3 @@ const gabe: Developer = {
       alt="LeetCode Badges"
     />
   </a>
-</p>
