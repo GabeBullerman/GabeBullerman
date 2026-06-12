@@ -10,13 +10,13 @@
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+%2F+Frontend+Engineer;React+%7C+TypeScript+%7C+Node.js;Building+cross-platform+apps+%26+real-time+systems" alt="Typing SVG" />
   </a>
-</p>
+</p>h
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GabeBullerman&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile Views" />
   &nbsp;
   <a href="https://portfolio-8yqn.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />h
   </a>
 </p>
 
@@ -41,7 +41,7 @@ const gabe: Developer = {
 <p align="center">
   <a href="https://leetcode.com/u/Gabe_Bullerman/">
     <img
-      src="https://leetcode-badge-showcase.vercel.app/api?username=Gabe_Bullerman&theme=tokyonight&animated=true&anon=true&border=no-border"
+      src="https://leetcode-badge-showcase.vercel.app/api?username=Gabe_Bullerman&theme=tokyonight&animated=true&border=no-border"
       alt="LeetCode Badges"
     />
   </a>
